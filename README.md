@@ -14,15 +14,18 @@ Estimate listing prices based on room type, neighborhood frequency, and booking 
 - Linear Regression <br>
 - Random Forest Regression <br>
 <br>
+<br>
 ## Results <br>
 - R² score ≈ 0.6 <br>
 - Model generalizes well on unseen data <br>
+<br>
 <br>
 ## Tech Stack <br>
 - Python <br>
 - Pandas, NumPy <br>
 - Scikit-learn <br>
 - Jupyter Notebook
+<br>
 <br>
 ## Future Improvements <br>
 - Gradient Boosting / XGBoost <br>
