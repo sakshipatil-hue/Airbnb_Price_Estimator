@@ -2,8 +2,10 @@
 <br>
 This model predicts Airbnb listing prices using machine learning.
 <br>
+
 ## Problem Statement <br>
 Estimate listing prices based on room type, neighborhood frequency, and booking details.
+<br>
 <br>
 ## Approach <br>
 - Data cleaning & preprocessing <br>
